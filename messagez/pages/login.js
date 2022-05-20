@@ -18,7 +18,7 @@ function Login() {
 
       <LoginContainer>
         <Logo
-         src='hhttps://lh3.googleusercontent.com/V3lOQY-1L-0T0U6bo4wiojKZkRMKe8_Ru0yO70he1Hc0dWD17Tb2nYbHGMpHtxhzyVhFv8MiQRmjE6LdpP1Hn5_Gze2GzQ7PZhCwmc5bCBpfa3dwwoelPlectBQsurvorODc_p3gIg=w2400'
+         src='https://lh3.googleusercontent.com/V3lOQY-1L-0T0U6bo4wiojKZkRMKe8_Ru0yO70he1Hc0dWD17Tb2nYbHGMpHtxhzyVhFv8MiQRmjE6LdpP1Hn5_Gze2GzQ7PZhCwmc5bCBpfa3dwwoelPlectBQsurvorODc_p3gIg=w2400'
         />
         <Button onClick={signIn} variant="outlined">Sign in with Google</Button>
     </LoginContainer>
